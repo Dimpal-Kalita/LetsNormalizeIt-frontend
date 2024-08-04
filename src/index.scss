@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@600&display=swap");
+
+:root {
+  --type-font-1: "Poppins", sans-serif;
+
+  --color-blue-1-100: #4885ed;
+  --color-blue-2-100: #4285f4;
+  --color-blue-3-100: #547dbf;
+  --color-green-1-100: #3cba54;
+  --color-red-1-100: #db3236;
+  --color-red-2-100: #f0766c;
+  --color-yellow-1-100: #f4c20d;
+  --color-dark-1-100: #1d192b;
+  --color-content-1-100: #313033;
+  --color-grayish-1-100: #49454f;
+  --color-line-1-100: #c5c5c5;
+  --color-bg-1-100: #dbdbdb;
+  --color-neutral-1-100: #605d62;
+  --color-shadow-1-100: rgb(218, 215, 215);
+
+  --grey-text-1-100: rgba(101, 108, 115, 1);
+  --grey-text-1-70: rgba(101, 108, 115, 0.7);
+
+  --heading-1-text-weight: 600;
+  --heading-2-text-weight: 500;
+  --paragraph-1-text-weight: 400;
+  --paragraph-2-text-weight: 300;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--type-font-1);
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "img": "https://res.cloudinary.com/dfriijrmr/image/upload/v1689102789/LetsNormaliseIt/flat-lay-paper-heart-paper-hand-with-copy-space_b7nylh.jpg",
+    "checked": true
+  },
+  {
+    "id": 2,
+    "img": "https://res.cloudinary.com/dwzws9wi7/image/upload/v1689160523/LetsNormalizeIt_MainBlogBanners/i6jczp2uftwx6wlppetb.jpg",
+    "checked": false
+  },
+  {
+    "id": 3,
+    "img": "https://res.cloudinary.com/dfriijrmr/image/upload/v1689102781/LetsNormaliseIt/top-view-bath-concept-accessories-with-copy-space_xgjsj0.jpg",
+    "checked": false
+  }
+]

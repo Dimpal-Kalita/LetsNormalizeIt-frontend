@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "src": "https://res.cloudinary.com/dwzws9wi7/image/upload/v1689197242/LetsNormalizeIt_Articles/dnatvb40t8qodzrdi87r.jpg",
+    "alt": "Image 1",
+    "label": "Image 1"
+  },
+  {
+    "id": 2,
+    "src": "https://res.cloudinary.com/dwzws9wi7/image/upload/v1689197242/LetsNormalizeIt_Articles/gh0p2k75xdtap67jb4yq.webp",
+    "alt": "Image 2",
+    "label": "Image 2"
+  },
+  {
+    "id": 3,
+    "src": "https://res.cloudinary.com/dwzws9wi7/image/upload/v1689197242/LetsNormalizeIt_Articles/sd3vmdy79kcizomi4b9k.png",
+    "alt": "Image 3",
+    "label": "Image 3"
+  }
+]
